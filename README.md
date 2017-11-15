@@ -9,18 +9,9 @@
 
 # 课程说明
 
-Deep learning is a group of exciting new technologies for neural networks. By using a 
-combination of advanced training techniques and neural network architectural components, it 
-is now possible to train neural networks of much greater complexity. This course will 
-introduce the student to deep belief neural networks, regularization units (ReLU), 
-convolution neural networks and recurrent neural networks. High performance computing 
-(HPC) aspects will demonstrate how deep learning can be leveraged both on graphical 
-processing units (GPUs), as well as grids. Deep learning allows a model to learn 
-hierarchies of information in a way that is similar to the function of the human brain. 
-Focus will be primarily upon the application of deep learning, with some introduction to 
-the mathematical foundations of deep learning. Students will use TensorFlow and Keras with
-the Python programming language to architect a deep learning model for several of real-world 
-data sets and interpret the results of these networks.
+Thanks to Professor [Jeff Heaton](https://sites.wustl.edu/jeffheaton/).I really love your courses.
+非常感谢华盛顿大学教授 `Jeff Heaton` 的课程，github 里面没有讲义，可以去[华盛顿大学课程](https://sites.wustl.edu/jeffheaton/t81-558)网站找找，我没找到，另外可以看看教授的博客，感觉比较接地气，不是那种只会说不会实践的老师
+深度学习是令人兴奋的神经网络新技术。通过使用先进的训练技术和神经网络架构组件，现在可以训练复杂得多的神经网络。本课程将向学生介绍深度神经网络，正则化单元（`ReLU`），卷积神经网络和（`CNN`）递归神经网络(`RNN`)。高性能计算（`HPC`）方面将展示如何在图形处理单元（`GPU`）上利用深度学习。深度学习使模型能够以与人类大脑功能类似的方式来学习信息的层次结构。重点将主要放在深度学习的应用上，并介绍深度学习的数学基础。学生们将使用Python编程语言,TensorFlow和Keras来构建一个真实数据集的深度学习模型，并解释这些网络的结果。
 
 # 目标
 
