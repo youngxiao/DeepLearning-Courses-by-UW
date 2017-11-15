@@ -10,7 +10,8 @@
 # 课程说明
 
 Thanks to Professor [Jeff Heaton](https://sites.wustl.edu/jeffheaton/).I really love your courses.
-非常感谢华盛顿大学教授 `Jeff Heaton` 的课程，github 里面没有讲义，可以去[华盛顿大学课程](https://sites.wustl.edu/jeffheaton/t81-558)网站找找，我没找到，另外可以看看教授的博客，感觉比较接地气，不是那种只会说不会实践的老师
+非常感谢华盛顿大学教授 `Jeff Heaton` 的课程，github 里面没有讲义，可以去[华盛顿大学课程](https://sites.wustl.edu/jeffheaton/t81-558)网站找找，我没找到，另外可以看看教授的博客 [Blog of Jeff Heaton](http://www.heatonresearch.com/jeff/),感觉比较接地气，不是那种只会说不会实践的老师。博客里面有一些有用的东西，例如一些传到 `YouTube` 的视频，当然不翻墙肯定看不了。另外，本课程跑代码的环境是 `Anaconda` 或者 `jupyter notebook`。最后，下面是原课程介绍，只是翻译了一下。
+
 深度学习是令人兴奋的神经网络新技术。通过使用先进的训练技术和神经网络架构组件，现在可以训练复杂得多的神经网络。本课程将向学生介绍深度神经网络，正则化单元（`ReLU`），卷积神经网络和（`CNN`）递归神经网络(`RNN`)。高性能计算（`HPC`）方面将展示如何在图形处理单元（`GPU`）上利用深度学习。深度学习使模型能够以与人类大脑功能类似的方式来学习信息的层次结构。重点将主要放在深度学习的应用上，并介绍深度学习的数学基础。学生们将使用Python编程语言,TensorFlow和Keras来构建一个真实数据集的深度学习模型，并解释这些网络的结果。
 
 # 目标
