@@ -60,7 +60,7 @@ Fall Break<br>10/16/2017 | **No class session**
 
 # 其他
 
-* [Helpful Functions](https://github.com/youngxiao/DeepLearning-Courses-by-UW/blob/master/jeffs_helpful.ipynb) - 对课程有用的 `Python` 函数.
+* [Helpful Functions](https://github.com/youngxiao/DeepLearning-Courses-by-UW/blob/master/jeffs_helpful.ipynb) - 对课程有用的 Python 函数.
 * [KDD99 Example](https://github.com/youngxiao/DeepLearning-Courses-by-UW/blob/master/tf_kdd99.ipynb)
 * [Video Tutorial on Using Data Scientist Workbench](https://www.youtube.com/watch?v=9r6ZfZm9nmI) - YouTube 的教程，如何导入数据到 Data Scientist Workbench.
 * [Care and Feeding of Python](http://www.heatonresearch.com/content/python_care.html) - 一些安装 package 有用命令。 如果您正在使用 Data Scientist Workbench，则不需要。
