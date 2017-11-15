@@ -1,8 +1,9 @@
 # DeepLearning-Courses-by-UW
 华盛顿大学2017秋季学期深度学习课程 `T81 558:Applications of Deep Neural Networks` 
+
 教授: [Jeff Heaton](https://sites.wustl.edu/jeffheaton/)
 
-2017秋季学期，周一课程
+2017秋季学期，每周一
 
 **需注意, 用的版本为 TensorFlow 1.0.**
 
@@ -32,7 +33,7 @@ This syllabus presents the expected class schedule, due dates, and reading assig
 
 Class|Content
 ---|---
-[Class 1](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class1_intro_python.ipynb)<br>08/28/2017 | <ul><li>Python for Machine Learning</ul>
+[Class 1](https://github.com/youngxiao/DeepLearning-Courses-by-UW/blob/master/t81_558_class1_intro_python.ipynb)<br>08/28/2017 | <ul><li>Python for Machine Learning</ul>
 LABOR DAY<br>09/04/2017 | ** No class labor day **
 [Class 2](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class2_tensor_flow.ipynb)<br>09/11/2017 | <ul><li>Neural Network & Machine Learning Basics<li>Introduction to TensorFlow<li>Assignment: Read Chapter 1</ul>
 [Class 3](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class3_training.ipynb)<br>09/18/2017 | <ul><li>Training a Neural Network<li>Assignment: Read Chapters 4 & 5</ul>
@@ -49,7 +50,7 @@ Fall Break<br>10/16/2017 | **No class session**
 [Class 13](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class13_other.ipynb)<br>12/04/2017 | <ul><li>Advanced Deep Learning Topics<li>Assignment: <b>Program 4 Due (Tuesday, 12-05 at midnight)</b></ul>
 [Class 14](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class14_aws.ipynb)<br>12/11/2017 | <ul><li>GPU, HPC and Cloud<li>Assignment: <b>Final Project Due (Tuesday, 12-18 at midnight)</b></ul>
 
-# Datasets
+# 数据集
 
 * [Iris](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/datasets_iris.ipynb) - Classify between 3 iris species.
 * [Auto MPG](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/datasets_mpg.ipynb) - Regression to determine MPG.
@@ -58,7 +59,7 @@ Fall Break<br>10/16/2017 | **No class session**
 
 *Note: Other datasets will be added as the class progresses.
 
-# Assignments
+# 课程项目
 
 * [Programming Assignment #1](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_559_program_1.pdf)
 * [Programming Assignment #2](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_559_program_2.pdf)
@@ -67,7 +68,7 @@ Fall Break<br>10/16/2017 | **No class session**
 * [Programming Assignment #4](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_559_program_4.pdf)
 * [Final Assignment](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_559_project.pdf)
 
-# Other Information
+# 其他
 
 * [Helpful Functions](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/jeffs_helpful.ipynb) - Helpful Python functions for this class.
 * [KDD99 Example](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/tf_kdd99.ipynb)
