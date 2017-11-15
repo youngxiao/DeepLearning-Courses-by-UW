@@ -1,16 +1,12 @@
 # DeepLearning-Courses-by-UW
-华盛顿大学2017秋季学期深度学习课程
+华盛顿大学2017秋季学期深度学习课程 `T81 558:Applications of Deep Neural Networks` 
+教授: [Jeff Heaton](https://sites.wustl.edu/jeffheaton/)
 
-# T81 558:Applications of Deep Neural Networks
-[Washington University in St. Louis](http://www.wustl.edu)
+2017秋季学期，周一课程
 
-Instructor: [Jeff Heaton](https://sites.wustl.edu/jeffheaton/)
+**需注意, 用的版本为 TensorFlow 1.0.**
 
-Fall 2017, Mondays, Class Room: Psychology #249
-
-**Please note, this semester is using TensorFlow 1.0.**
-
-# Course Description
+# 课程说明
 
 Deep learning is a group of exciting new technologies for neural networks. By using a 
 combination of advanced training techniques and neural network architectural components, it 
@@ -25,14 +21,14 @@ the mathematical foundations of deep learning. Students will use TensorFlow and 
 the Python programming language to architect a deep learning model for several of real-world 
 data sets and interpret the results of these networks.
 
-# Objectives
+# 目标
 
 1. Explain how neural networks (deep and otherwise) compare to other machine learning models. 
 2. Determine when a deep neural network would be a good choice for a particular problem.
 3. Demonstrate your understanding of the material through a final project uploaded to GitHub.
 
-# Syllabus
-This syllabus presents the expected class schedule, due dates, and reading assignments.  [Download current syllabus.](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_558_spring2017_fall.pdf)
+# 课程安排
+This syllabus presents the expected class schedule, due dates, and reading assignments.  [Download current syllabus.](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_558_spring2017_fall.pdf)
 
 Class|Content
 ---|---
