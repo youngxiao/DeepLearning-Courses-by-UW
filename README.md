@@ -15,13 +15,11 @@ Thanks to Professor [Jeff Heaton](https://sites.wustl.edu/jeffheaton/).I really 
 深度学习是令人兴奋的神经网络新技术。通过使用先进的训练技术和神经网络架构组件，现在可以训练复杂得多的神经网络。本课程将向学生介绍深度神经网络，正则化单元（`ReLU`），卷积神经网络和（`CNN`）递归神经网络(`RNN`)。高性能计算（`HPC`）方面将展示如何在图形处理单元（`GPU`）上利用深度学习。深度学习使模型能够以与人类大脑功能类似的方式来学习信息的层次结构。重点将主要放在深度学习的应用上，并介绍深度学习的数学基础。学生们将使用Python编程语言,TensorFlow和Keras来构建一个真实数据集的深度学习模型，并解释这些网络的结果。
 
 # 目标
-
-1. Explain how neural networks (deep and otherwise) compare to other machine learning models. 
-2. Determine when a deep neural network would be a good choice for a particular problem.
-3. Demonstrate your understanding of the material through a final project uploaded to GitHub.
+1. 比较深度神经网络和其他机器学习模型的比较。
+2. 确定在何时对于特定问题，深度神经网络是好的选择。
+3. 通过最终项目，展示你对课程的理解程度。
 
 # 课程安排
-This syllabus presents the expected class schedule, due dates, and reading assignments.  [Download current syllabus.](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_558_spring2017_fall.pdf)
 
 Class|Content
 ---|---
@@ -53,16 +51,16 @@ Fall Break<br>10/16/2017 | **No class session**
 
 # 项目作业
 
-* [Programming Assignment #1](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_559_program_1.pdf)
-* [Programming Assignment #2](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_559_program_2.pdf)
-* [Midterm](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_559_midterm.pdf)
-* [Programming Assignment #3](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_559_program_3.pdf) 
-* [Programming Assignment #4](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_559_program_4.pdf)
-* [Final Assignment](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_559_project.pdf)
+* [Programming Assignment #1](https://github.com/youngxiao/DeepLearning-Courses-by-UW/tree/master/pdf/UW_DP_项目作业1.pdf)
+* [Programming Assignment #2](https://github.com/youngxiao/DeepLearning-Courses-by-UW/tree/master/pdf/UW_DP_项目作业2.pdf)
+* [Midterm](https://github.com/youngxiao/DeepLearning-Courses-by-UW/tree/master/pdf/UW_DP_期中作业.pdf)
+* [Programming Assignment #3](https://github.com/youngxiao/DeepLearning-Courses-by-UW/tree/master/pdf/UW_DP_项目作业3.pdf) 
+* [Programming Assignment #4](https://github.com/youngxiao/DeepLearning-Courses-by-UW/tree/master/pdf/UW_DP_项目作业4.pdf)
+* [Final Assignment](https://github.com/youngxiao/DeepLearning-Courses-by-UW/tree/master/pdf/UW_DP_期末作业.pdf)
 
 # 其他
 
-* [Helpful Functions](https://github.com/youngxiao/DeepLearning-Courses-by-UW/blob/master/jeffs_helpful.ipynb) - Helpful Python functions for this class.
+* [Helpful Functions](https://github.com/youngxiao/DeepLearning-Courses-by-UW/blob/master/jeffs_helpful.ipynb) - 对课程有用的 `Python` 函数.
 * [KDD99 Example](https://github.com/youngxiao/DeepLearning-Courses-by-UW/blob/master/tf_kdd99.ipynb)
-* [Video Tutorial on Using Data Scientist Workbench](https://www.youtube.com/watch?v=9r6ZfZm9nmI) - See how to add data to Data Scientist Workbench 
-* [Care and Feeding of Python](http://www.heatonresearch.com/content/python_care.html) - Some useful commands for a local Python install.  Not needed if you are using Data Scientist Workbench.
+* [Video Tutorial on Using Data Scientist Workbench](https://www.youtube.com/watch?v=9r6ZfZm9nmI) - YouTube 的教程，如何导入数据到 Data Scientist Workbench.
+* [Care and Feeding of Python](http://www.heatonresearch.com/content/python_care.html) - 一些安装 package 有用命令。 如果您正在使用 Data Scientist Workbench，则不需要。
